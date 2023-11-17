@@ -1,0 +1,16 @@
+body {
+  background: #00151c;
+}
+
+#chart {
+  background: #0e3040;
+  color: #67809f;
+}
+
+.tooltip {
+  position: absolute;
+  background-color: white;
+  border: 1px solid #ccc;
+  padding: 5px;
+  pointer-events: none;
+}
